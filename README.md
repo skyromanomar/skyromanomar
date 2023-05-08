@@ -1,5 +1,11 @@
-<h1 align="center">Marco Romano @DS Group S.p.A.</h1>
-<h3 align="center">IVR Brain Developer for Sky</h3>
+<h1 align="center">Marco Romano</h1>
+<h3 align="center">IVR Brain Developer</h3>
+
+<p align="center">
+<a href="https://www.dsgroup.it/">
+<img src="./Picture1.png"/>
+</a>
+</p>
 
 <!--
 **markort147/markort147** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
